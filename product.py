@@ -1,1 +1,2 @@
-print('mint')
+print('test')
+print('tea')
