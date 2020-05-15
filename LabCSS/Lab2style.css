@@ -1,0 +1,59 @@
+.M1{
+    background-color: violet;
+    font-family: serif;
+
+}
+
+.demo {
+    align-content: center;
+    background-position-x: center;
+}
+.container {
+        display:grid;
+        grid-template-columns: 300PX 300PX 300PX;
+        grid-template-rows: 100px 100px 100px 100px;
+        grid-gap:100px;
+        background-color: teal;
+        align-items:flex-end;
+        justify-content: space-between;
+    }
+    .container div {
+        text-align: center;
+    
+}
+.item1 {
+    color: yellow;
+    background-color: turquoise;
+}
+.item2 {
+    color: rgb(16, 212, 212);
+    background-color: violet;
+}
+.item3 {
+    color: wheat;
+    background-color:tan;
+}
+.item4 {
+    color: violet;
+    background-color: saddlebrown;
+}
+.item5 {
+    color: skyblue;
+    background-color:snow;
+}
+.item6 {
+    color:palegreen;
+    background-color:wheat;
+}
+.item7 {
+    color: indigo;
+    background-color:grey;
+}
+.item8 {
+    color:orange;
+    background-color:rosybrown;
+}
+.item9 {
+color: sandybrown;
+    background-color: violet;
+}
